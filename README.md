@@ -5,11 +5,11 @@ Forked from [SSL-SI-tool] (https://github.com/Yashish92/SSL-SI-tool)
 * Email: yashish@terpmail.umd.edu
 
 Main Updates in this repo: 
-* [plot] (examples/plot/plots_2025-09-02_14-35-18/phoneme_comparison_combined_ɪ_ʃ_t_ɪ_s_t_i_t͡ʃ_t.png) 
-* [gaussian models and simple feedback](examples/gaussian_models/models_2025-09-09_10-11-34_expanded_woContext_s_real_data/combined_plots/combined_t͡ʃ.png)
+* ![plot] (examples/plot/plots_2025-09-02_14-35-18/phoneme_comparison_combined_ɪ_ʃ_t_ɪ_s_t_i_t͡ʃ_t.png) 
+* ![gaussian models and simple feedback](examples/gaussian_models/models_2025-09-09_10-11-34_expanded_woContext_s_real_data/combined_plots/combined_t͡ʃ.png)
 * plot and gaussian models only available currently for xrmb not hprc. 
 * current in experiment phase, gaussian model feedback sensitivity is high, for your experiment please adjust to your desired threshold. 
-This update is inspired from paper [Subtyping Speech Errors in Childhood Speech Sound Disorders with Acoustic-to-Articulatory Speech Inversion](https://www.isca-archive.org/interspeech_2025/benway25_interspeech.pdf) 
+* This update is inspired from paper [Subtyping Speech Errors in Childhood Speech Sound Disorders with Acoustic-to-Articulatory Speech Inversion](https://www.isca-archive.org/interspeech_2025/benway25_interspeech.pdf) 
 
 ## Description
 The SSL-SI-tool implements the pipeline which can be directly used to estimate the articulatory features (6 TVs or 9 TVs + source features) given the speech utterance (.wav files).
