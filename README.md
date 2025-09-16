@@ -1,8 +1,7 @@
 # SSL-SI-tool-w_plot_gaussiam 
 
 Forked from [SSL-SI-tool] (https://github.com/Yashish92/SSL-SI-tool)
-* Author: Yashish Maduwantha
-* Email: yashish@terpmail.umd.edu
+* Original Author: Yashish Maduwantha
 
 Main Updates in this repo: 
 * plot
