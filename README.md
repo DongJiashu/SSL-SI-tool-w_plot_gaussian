@@ -123,9 +123,7 @@ python 4a_gaussian.py --train-csv xx.csv --eval-csv xxx.csv --phoneme-combinatio
 ```
 you can adjust threshold to control the sensitiveness, you can also use load_model to use existing model. if no eval csv then the script will just generate gaussian models. 
 
-6. general information 
-ignore context example:  ʃ s t͡ʃ z θ ð ʒ 
-with context example: ɪ_ʃ_t ɪ_s_t i_t͡ʃ_t 
+6. ignore context example:  ʃ s t͡ʃ z θ ð ʒ ; with context example: ɪ_ʃ_t ɪ_s_t i_t͡ʃ_t 
 
 
 ## License
