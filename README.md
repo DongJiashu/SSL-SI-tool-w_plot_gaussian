@@ -4,9 +4,9 @@ Forked from [SSL-SI-tool] (https://github.com/Yashish92/SSL-SI-tool)
 * Original Author: Yashish Maduwantha
 
 Main Updates in this repo: 
-* plot
+* add plot
 ![plot](examples/plot/plots_2025-09-02_14-35-18/phoneme_comparison_combined_ɪ_ʃ_t_ɪ_s_t_i_t͡ʃ_t.png) 
-* gaussian models and simple feedback
+* add gaussian models and simple feedback
 ![gaussian models and simple feedback](examples/gaussian_models/models_2025-09-09_10-11-34_expanded_woContext_s_real_data/combined_plots/combined_t͡ʃ.png)
 * plot and gaussian models only available currently for xrmb not hprc. 
 * current in experiment phase, gaussian model feedback sensitivity is high, for your experiment please adjust to your desired threshold. 
