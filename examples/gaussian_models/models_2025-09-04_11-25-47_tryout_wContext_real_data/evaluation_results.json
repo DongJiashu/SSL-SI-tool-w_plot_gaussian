@@ -1,0 +1,212 @@
+{
+  "8555_284447_000019_000001": {
+    "overall_score": 0.4407905932802825,
+    "is_normal": true,
+    "category_results": {
+      "i_t\u0361\u0283_t_tongue_body": {
+        "probability": 28.580709880999933,
+        "normalized_probability": 0.35255439859055093,
+        "is_normal": true,
+        "location_value": -0.3577937370879273,
+        "degree_value": -0.2274831464492886,
+        "expected_location_mean": -0.3000014994750621,
+        "expected_degree_mean": -0.13362971288340722
+      },
+      "i_t\u0361\u0283_t_tongue_tip": {
+        "probability": 133.17372444395022,
+        "normalized_probability": 0.8196632612517156,
+        "is_normal": true,
+        "location_value": 0.2104131217167542,
+        "degree_value": -0.300571131134879,
+        "expected_location_mean": 0.1780458474784432,
+        "expected_degree_mean": -0.30064078956223467
+      },
+      "i_t\u0361\u0283_t_lips": {
+        "probability": 8.418902806510522,
+        "normalized_probability": 0.15015411999858128,
+        "is_normal": true,
+        "location_value": 0.0653379420841848,
+        "degree_value": 0.0789887605030106,
+        "expected_location_mean": 0.02127674008647816,
+        "expected_degree_mean": -0.028004242676903327
+      }
+    },
+    "feedback": [
+      "i_t\u0361\u0283_t tongue_body: Good performance",
+      "i_t\u0361\u0283_t tongue_tip: Good performance",
+      "i_t\u0361\u0283_t lips: Good performance"
+    ],
+    "evaluation_points": {
+      "i_t\u0361\u0283_t_tongue_body": {
+        "point": [
+          -0.3577937370879273,
+          -0.2274831464492886
+        ],
+        "probability": 28.580709880999933,
+        "normalized_probability": 0.35255439859055093,
+        "is_normal": true
+      },
+      "i_t\u0361\u0283_t_tongue_tip": {
+        "point": [
+          0.2104131217167542,
+          -0.300571131134879
+        ],
+        "probability": 133.17372444395022,
+        "normalized_probability": 0.8196632612517156,
+        "is_normal": true
+      },
+      "i_t\u0361\u0283_t_lips": {
+        "point": [
+          0.0653379420841848,
+          0.0789887605030106
+        ],
+        "probability": 8.418902806510522,
+        "normalized_probability": 0.15015411999858128,
+        "is_normal": true
+      }
+    },
+    "phoneme_combinations": [
+      "i_t\u0361\u0283_t"
+    ]
+  },
+  "1089_134691_000024_000000": {
+    "overall_score": 0.5502476921147851,
+    "is_normal": true,
+    "category_results": {
+      "\u026a_s_t_tongue_body": {
+        "probability": 11.052538165673498,
+        "normalized_probability": 0.4988724970554465,
+        "is_normal": true,
+        "location_value": 0.0495202158215207,
+        "degree_value": 0.2751986431211641,
+        "expected_location_mean": -0.017532386426007882,
+        "expected_degree_mean": 0.17124390105550835
+      },
+      "\u026a_s_t_tongue_tip": {
+        "probability": 44.38427408077237,
+        "normalized_probability": 0.23312649877719158,
+        "is_normal": true,
+        "location_value": 0.0341755692893476,
+        "degree_value": -0.2292652627889425,
+        "expected_location_mean": 0.048868929281634714,
+        "expected_degree_mean": -0.2519239413949666
+      },
+      "\u026a_s_t_lips": {
+        "probability": 47.546600220188786,
+        "normalized_probability": 0.9187440805117172,
+        "is_normal": true,
+        "location_value": -0.0694454200059941,
+        "degree_value": -0.1371501300112966,
+        "expected_location_mean": -0.06873257223264345,
+        "expected_degree_mean": -0.10452712928627625
+      }
+    },
+    "feedback": [
+      "\u026a_s_t tongue_body: Good performance",
+      "\u026a_s_t tongue_tip: Good performance",
+      "\u026a_s_t lips: Good performance"
+    ],
+    "evaluation_points": {
+      "\u026a_s_t_tongue_body": {
+        "point": [
+          0.0495202158215207,
+          0.2751986431211641
+        ],
+        "probability": 11.052538165673498,
+        "normalized_probability": 0.4988724970554465,
+        "is_normal": true
+      },
+      "\u026a_s_t_tongue_tip": {
+        "point": [
+          0.0341755692893476,
+          -0.2292652627889425
+        ],
+        "probability": 44.38427408077237,
+        "normalized_probability": 0.23312649877719158,
+        "is_normal": true
+      },
+      "\u026a_s_t_lips": {
+        "point": [
+          -0.0694454200059941,
+          -0.1371501300112966
+        ],
+        "probability": 47.546600220188786,
+        "normalized_probability": 0.9187440805117172,
+        "is_normal": true
+      }
+    },
+    "phoneme_combinations": [
+      "\u026a_s_t"
+    ]
+  },
+  "7729_102255_000035_000002": {
+    "overall_score": 0.8322295398625922,
+    "is_normal": true,
+    "category_results": {
+      "\u026a_\u0283_t_tongue_body": {
+        "probability": 17.264631011433895,
+        "normalized_probability": 0.6066354557401598,
+        "is_normal": true,
+        "location_value": -0.2352214571706942,
+        "degree_value": -0.0807858164377297,
+        "expected_location_mean": -0.15490629375365544,
+        "expected_degree_mean": 0.01369415012232419
+      },
+      "\u026a_\u0283_t_tongue_tip": {
+        "probability": 65.00510412591537,
+        "normalized_probability": 0.9434527439443127,
+        "is_normal": true,
+        "location_value": 0.1718522367994703,
+        "degree_value": -0.2392123230141585,
+        "expected_location_mean": 0.19958451120205764,
+        "expected_degree_mean": -0.23862638164564762
+      },
+      "\u026a_\u0283_t_lips": {
+        "probability": 25.939780103915332,
+        "normalized_probability": 0.9466004199033038,
+        "is_normal": true,
+        "location_value": -0.0024318931905948,
+        "degree_value": 0.061345835142607,
+        "expected_location_mean": -0.02507472055269977,
+        "expected_degree_mean": 0.04188892421963908
+      }
+    },
+    "feedback": [
+      "\u026a_\u0283_t tongue_body: Good performance",
+      "\u026a_\u0283_t tongue_tip: Good performance",
+      "\u026a_\u0283_t lips: Good performance"
+    ],
+    "evaluation_points": {
+      "\u026a_\u0283_t_tongue_body": {
+        "point": [
+          -0.2352214571706942,
+          -0.0807858164377297
+        ],
+        "probability": 17.264631011433895,
+        "normalized_probability": 0.6066354557401598,
+        "is_normal": true
+      },
+      "\u026a_\u0283_t_tongue_tip": {
+        "point": [
+          0.1718522367994703,
+          -0.2392123230141585
+        ],
+        "probability": 65.00510412591537,
+        "normalized_probability": 0.9434527439443127,
+        "is_normal": true
+      },
+      "\u026a_\u0283_t_lips": {
+        "point": [
+          -0.0024318931905948,
+          0.061345835142607
+        ],
+        "probability": 25.939780103915332,
+        "normalized_probability": 0.9466004199033038,
+        "is_normal": true
+      }
+    },
+    "phoneme_combinations": [
+      "\u026a_\u0283_t"
+    ]
+  }
+}
